@@ -1,0 +1,10 @@
+$schema: https://azuremlschemas.azureedge.net/latest/commandJob.schema.json
+code: ./IntelligentEngineering/
+command: python model.py --trainingdata ${{ inputs.training_data }}
+inputs:
+  training_data:
+    type: azureml:HARS:1
+environment: azureml://registries/azureml/environments/sklearn-1.1/versions/14
+compute: IntelligentEngineering-Compute
+experiment_name: IntelligentEngineering
+description: IntelligentEngineering demo
