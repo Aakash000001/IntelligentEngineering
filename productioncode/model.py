@@ -65,8 +65,6 @@ print("Number of numeric features:",num_cols.size)
 
 """# Transforming Non numerical Labels into numerical labels"""
 
-pip install scikit-learn
-
 from sklearn import preprocessing
 
 encoder=preprocessing.LabelEncoder()
