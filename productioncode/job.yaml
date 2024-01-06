@@ -1,5 +1,5 @@
 $schema: https://azuremlschemas.azureedge.net/latest/commandJob.schema.json
-code: ./IntelligentEngineering/
+code: ./home/aakash/IntelligentEngineering/productioncode/
 command: python model.py --trainingdata ${{ inputs.training_data }}
 inputs:
   training_data:
