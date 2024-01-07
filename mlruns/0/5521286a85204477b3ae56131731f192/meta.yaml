@@ -1,0 +1,15 @@
+artifact_uri: file:///content/mlruns/0/5521286a85204477b3ae56131731f192/artifacts
+end_time: 1704661686298
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5521286a85204477b3ae56131731f192
+run_name: nimble-lark-252
+run_uuid: 5521286a85204477b3ae56131731f192
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704661681403
+status: 3
+tags: []
+user_id: root

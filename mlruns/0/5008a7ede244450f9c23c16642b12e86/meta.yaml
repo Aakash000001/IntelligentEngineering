@@ -1,0 +1,15 @@
+artifact_uri: file:///content/mlruns/0/5008a7ede244450f9c23c16642b12e86/artifacts
+end_time: 1704661264630
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5008a7ede244450f9c23c16642b12e86
+run_name: unique-snipe-648
+run_uuid: 5008a7ede244450f9c23c16642b12e86
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704661264621
+status: 4
+tags: []
+user_id: root
